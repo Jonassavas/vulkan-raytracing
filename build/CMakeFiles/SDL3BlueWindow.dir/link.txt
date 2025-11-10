@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/SDL3BlueWindow.dir/link.d CMakeFiles/SDL3BlueWindow.dir/src/main.cpp.o -o SDL3BlueWindow  -Wl,-rpath,/usr/lib -lSDL3
